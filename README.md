@@ -4,7 +4,10 @@ This segment describes about the project developed to demostrate the data scienc
 
 # Introduction/Business Problem:
 
-The problem statement proposed here is to identify the type of restaurant for the stakeholders which could be set up in New York city based on the analysis of number of user chekins with the current restaurants around the city.
+The problem statement proposed here is to identify the type of restaurant which could be set up in New York city based on the analysis of number of user chekins with the current restaurants around the city.
+
+### Target Audience:
+Stakeholders/Business chains who are interested to extend their branches around New York city. This analysis would help them to identify their favourite area.
 
 # Data:
 Leverage the number of resturants around New York city and their food offerings with most number of checkins by the users. Based on the analysis we need to extract what the most preferred food options by the users around the city and propose a solution for the stakeholders to take a decision on this. We will use FourSquare location data to resolve this problem. Below are the key data to be analyzed,
