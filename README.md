@@ -36,4 +36,4 @@ Based on the cluster results, below are the venue types which are famous in Broo
 The stakeholders who belongs to the category listed in results section could consider finding an opportunity to open new shops in Brooklyn area of New York.
 
 # Conclusion
-All my findings and observation are shared in my blogspot here. [a link](https://applieddatascience-byrk.blogspot.com/)
+All my findings and observation are shared in my blogspot [here.](https://applieddatascience-byrk.blogspot.com/)
